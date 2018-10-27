@@ -1,7 +1,7 @@
 # About
 
-- Muhammad Azhar Rasyad
 - Hera Karmila
+- Muhammad Azhar Rasyad
 
 # System Requirement
 
